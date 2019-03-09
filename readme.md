@@ -1,29 +1,29 @@
-## Data Science Live Book
+## Libro Vivo Ciencia de Datos
 
-<img src="https://datascienceheroes.com/img/blog/data-science-live-book-cover-2.png" alt="Data Science Live Book" width="400px">
+<img src="https://datascienceheroes.com/img/blog/data-science-live-book-cover-2.png" alt="Libro Vivo Ciencia de Datos" width="400px">
 
 
  
-<font size="+2">**`tl;dr`**</font>: Hi there! I invite you to <a href="https://livebook.datascienceheroes.com" target="blank">read the book online</a> and/or <a href="https://livebook.datascienceheroes.com/download-book.html" target="blank">download here</a>. Thanks and have a nice day :)
+<font size="+2">**`tl;dr`**</font>: ¡Hola! Te invito a leer <a href="https://livebook.datascienceheroes.com" target="blank">el libro online </a> y/o <a href="https://livebook.datascienceheroes.com/download-book.html" target="blank">bajarlo acá</a>. Que tengas un excelente día :)
 
 #### Paperback & Kindle at Amazon
 
-This book is now available at Amazon in [Kindle]( Link: http://a.co/d/dIj1XwD) [Black & White](https://www.amazon.com/dp/9874269049) and [color](https://www.amazon.com/dp/9874273666) 📗 🚀.
+Este libro está disponible en Amazon en [Kindle]( Link: http://a.co/d/dIj1XwD) [Black & White](https://www.amazon.com/dp/9874269049) y [color](https://www.amazon.com/dp/9874273666) 📗 🚀.
 
 LiIt can be shipped to over 100 countries. 🌎
 
-Also available in P[PDF](https://gumroad.com/l/tORBv) :)
+También disponible en P[PDF](https://gumroad.com/l/tORBv) :)
 ### `!(tl;dr)`: An overview...
 
-It's a book to learn data science, machine learning, data analysis with tons of examples and explanations around several topics like:
+Es un libro para aprender ciencia de datos, machine learning, análisis de datos con toneladas de ejemplos y explicaciones acerca de varios temas tales como:
  
-- Exploratory data analysis
-- Data preparation
-- Selecting best variables
-- Model performance
+- Análisis exploratorio de datos
+- Preparación de datos
+- Seleccionar las mejores variables
+- Performance de modelos
 
 
-Most of the written R code can be used in real scenarios! I worked on the `funModeling` R package at the same time, so it is used many times in the book.
+¡La mayoría del código R puede ser usada en escenarios reales! I worked on the `funModeling` R package at the same time, so it is used many times in the book.
 
 <br>
 
